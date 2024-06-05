@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=29035D&random=false&width=435&lines=Hello+I'm+Kiarash+Jalali)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&pause=1000&color=B82CF7&random=false&width=435&lines=Hello%2C+I'm+Kiarash+Jalali)](https://git.io/typing-svg)
 ======================================================================================================================================
 CFD engineer
 ------------
