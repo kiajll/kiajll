@@ -2,7 +2,8 @@
 ======================================================================================================================================
 CFD engineer
 ------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=800&pause=1000&color=0E0102&random=false&width=435&lines=A+multi-year+experienced+mechanical+engineer+specializing+in+CFD+simulation+of+Turbulent+flow+and+modeling+Stochastic+processes%2C+utilizing+Direct+Numerical+Simulation+(DNS)%2C+Finite+Element+Analysis+(FEA)+and+Finite+Difference+Methods+(FDM).)](https://git.io/typing-svg)
+
+A multi-year experienced mechanical engineer specializing in CFD simulation of Turbulent flow and modeling Stochastic processes, utilizing Direct Numerical Simulation (DNS), Finite Element Analysis (FEA) and Finite Difference Methods (FDM).
 
 * 🌍  I'm based in Montreal
 * ✉️  You can contact me at [kiarashjalali@gmail.com](mailto:kiarashjalali@gmail.com)
