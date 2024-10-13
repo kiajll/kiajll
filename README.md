@@ -3,10 +3,17 @@
 CFD engineer
 ------------
 
-A multi-year experienced mechanical engineer specializing in CFD simulation of Turbulent flow and modeling Stochastic processes, utilizing Direct Numerical Simulation (DNS), Finite Element Analysis (FEA) and Finite Difference Methods (FDM).
+A multi-year experienced mechanical engineer specializing in CFD simulation of Turbulent flow and modeling Stochastic processes.
 
-* 🌍  I'm based in Montreal
-* ✉️  You can contact me at [kiarashjalali@gmail.com](mailto:kiarashjalali@gmail.com)
+Strong and proven knowledge in implementing solvers and numerical algorithms:
+* Finite Element Method (FEM) – Adaptive Mesh Refinement (AMR) and unstructured mesh generation in complex geometries
+* Finite Difference Method (FDM) – Strong experience in Explicit/ Implicit methods and iterative solvers
+* Spectral methods (Including Fourier-Galerkin and Chebyshev methods) – Strong background to capture sharp gradients/ nonlinear discontinuities and implementing De-aliasing techniques 
+
+	
+
+🌍  I'm based in Montreal<br>
+✉️  You can contact me at [kiarashjalali@gmail.com](mailto:kiarashjalali@gmail.com)
 
 ### Skills
 
