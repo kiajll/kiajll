@@ -5,7 +5,7 @@ CFD engineer
 
 A multi-year experienced mechanical engineer specializing in CFD simulation of Turbulent flow and modeling Stochastic processes.
 
-Strong and proven knowledge in implementing solvers and numerical algorithms:
+Strong and proven knowledge in implementing numerical solvers:
 * Finite Element Method (FEM) – Adaptive Mesh Refinement (AMR) and unstructured mesh generation in complex geometries
 * Finite Difference Method (FDM) – Strong experience in Explicit/ Implicit methods and iterative solvers
 * Spectral methods (Including Fourier-Galerkin and Chebyshev methods) – Strong background to capture sharp gradients/ nonlinear discontinuities and implementing De-aliasing techniques 
