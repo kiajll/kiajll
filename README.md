@@ -3,7 +3,7 @@
 CFD Software Developer
 ------------
 
-A multi-year experienced mechanical engineer specializing in CFD simulation of turbulent flow , nonlinear dynamics and modeling stochastic processes.
+A multi-year experienced mechanical engineer specializing in CFD simulation of turbulent flow and modeling stochastic processes.
 
 Strong and proven knowledge in implementing numerical solvers:
 * Finite Element Method (FEM) – Adaptive Mesh Refinement (AMR) and unstructured mesh generation in complex geometries
